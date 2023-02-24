@@ -13,7 +13,7 @@ poster:
 ---
 {% note 笔记来自于尚硅谷课程 color:green %}
 
-{% link https://www.bilibili.com/video/BV1Xy4y1v7S2/ 尚硅谷TypeScript教程（李立超老师TS新课） https://cdn.leonus.cn/img/atguigu.webp %}
+{% link https://www.bilibili.com/video/BV1Xy4y1v7S2/ 尚硅谷TypeScript教程（李立超老师TS新课） icon:https://cdn.leonus.cn/img/atguigu.webp %}
 
 ## 第一章 快速入门
 
