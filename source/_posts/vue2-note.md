@@ -3,14 +3,8 @@ title: Vue2.0笔记
 tags:
   - 笔记
 categories: 学习笔记
-cover: https://cdn.leonus.cn/cover/vue.webp
 date: 2022-03-12 22:00:00
 updated: 2022-03-12 22:00:00
-poster: 
-  topic: 
-  headline: Vue2.0笔记
-  caption: vue基础知识
-  color: white
 ---
 
 ## vue2.0
@@ -22,7 +16,7 @@ poster:
 1. `v-text` 指令的缺点：会覆盖元素内部原有的内容！
 2. `{{ }}` 插值表达式：在实际开发中用的最多，只是内容的占位符，不会覆盖原有的内容！
 3. `v-html` 指令的作用：可以把带有标签的字符串，渲染成真正的 HTML 内容！
-
+<!-- more -->
 **v-text示例**
 
 ```js

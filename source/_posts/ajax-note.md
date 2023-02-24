@@ -1,17 +1,11 @@
 ---
-title: AJAX相关
+title: AJAX笔记
 tags:
   - 笔记
 categories:
   - 学习笔记
-cover: https://cdn.leonus.cn/cover/36796348296549298574afb8585db7b6.webp
 date: 2022-05-27 18:13:41
 updated: 2022-05-27 18:13:41
-poster: 
-  topic: 
-  headline: AJAX笔记 # 必选
-  caption: ajax相关知识笔记
-  color: white
 ---
 ## fetch
 >网站中可使用，nodejs需要安装第三方库
@@ -23,6 +17,7 @@ res包含的一些内置函数：
 - `res.blob()`: 返回 blob 数据。
 - `res.arrayBuffer()`：返回数组缓冲区数据
 - `res.formData()`：返回 formData 数据。
+<!-- more -->
 ### 基本使用
 ```js
 fetch('url')

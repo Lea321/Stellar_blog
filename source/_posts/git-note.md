@@ -10,7 +10,7 @@ poster:
   topic: 
   headline: Git笔记
   caption: 常用的一些Git命令记录
-  color: white
+  color: 
 ---
 
 ## Git常用命令

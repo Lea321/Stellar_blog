@@ -10,7 +10,7 @@ poster:
   topic: 学习笔记
   headline: Python笔记
   caption: 
-  color: white
+  color:
 ---
 ## 基础知识
 
